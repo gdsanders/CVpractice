@@ -14,7 +14,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var weirdo2Label: UILabel!
     @IBOutlet weak var imageChanger: UIImageView!
     
-    var monkeywoman = "Ooh Mrs. Crane, you're a little monkey woman you know that? You're a little monkey woman... You're lean and you're mean and you're not too far between either I bet, are ya? Would you like to wrap your spikes around my head? "
+    var monkeywoman = "Nothing to look twice at. Nothing to be alarmed about. This looks like it could be gravy. I smell varmint poontang, and the only good varmint poontang is dead varmint poontang. Freeze gopher!"
     
     
 
